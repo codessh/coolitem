@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "coolitem:block/super_block"
+    }
+  }
+}
