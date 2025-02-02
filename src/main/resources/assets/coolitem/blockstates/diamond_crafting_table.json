@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "coolitem:block/diamond_crafting_table"
+    }
+  }
+}
