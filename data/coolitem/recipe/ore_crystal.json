@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item":"coolitem:super_amethyst_block"
+    },
+    {
+      "item":"coolitem:super_coal_block"
+    },
+    {
+      "item":"coolitem:super_copper_block"
+    },
+    {
+      "item":"coolitem:super_diamond_block"
+    },
+    {
+      "item":"coolitem:super_emerald_block"
+    },
+    {
+      "item":"coolitem:super_gold_block"
+    },
+    {
+      "item":"coolitem:super_iron_block"
+    },
+    {
+      "item":"coolitem:super_lapis_block"
+    },
+    {
+      "item":"coolitem:super_netherite_block"
+    },
+    {
+      "item":"coolitem:super_quartz_block"
+    },
+    {
+      "item":"coolitem:super_redstone_block"
+    }
+  ],
+  "result": {
+    "id": "coolitem:ore_crystal",
+    "count": 1
+  }
+}

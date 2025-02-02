@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "coolitem:netherite_diamond"
+    }
+  },
+  "result": {
+    "id": "coolitem:netherite_diamond_block",
+    "count": 1
+  }
+}
