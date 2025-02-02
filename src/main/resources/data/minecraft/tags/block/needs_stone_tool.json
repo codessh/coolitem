@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "coolitem:super_copper_block",
+    "coolitem:super_iron_block",
+    "coolitem:super_lapis_block"
+  ]
+}

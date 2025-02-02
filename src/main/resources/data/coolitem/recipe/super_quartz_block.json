@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDDDDDDDD",
+    "DIIIIIIID",
+    "DIIIIIIID",
+    "DIIIIIIID",
+    "DIIIIIIID",
+    "DIIIIIIID",
+    "DIIIIIIID",
+    "DIIIIIIID",
+    "DDDDDDDDD"
+  ],
+  "key": {
+    "D": {
+      "item": "coolitem:netherite_diamond"
+    },
+    "I": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "result": {
+    "id": "coolitem:super_quartz_block",
+    "count": 1
+  }
+}

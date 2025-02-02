@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item":"coolitem:super_block"
+    }
+  ],
+  "result": {
+    "id": "coolitem:super_ingot",
+    "count": 9
+  }
+}

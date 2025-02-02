@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDDDDDDDD",
+    "DCCCCCCCD",
+    "DCCCCCCCD",
+    "DCCCCCCCD",
+    "DDDDDDDDD"
+  ],
+  "key": {
+    "D": {
+      "item": "coolitem:netherite_diamond"
+    },
+    "C": {
+      "item": "coolitem:ore_crystal"
+    }
+  },
+  "result": {
+    "id": "coolitem:super_ingot",
+    "count": 1
+  }
+}
