@@ -12,7 +12,7 @@ I like Avaritia, but it requires a lower version. So I wrote a Mod and I think i
 
 ## Releases
 
-- [1.0.0           ](https://github.com/codessh/coolitem/releases/tag/1.0.0)
+- [1.0.0           ](../releases/tag/1.0.0)
 - [1.1.0           ](https://github.com/codessh/coolitem/releases/tag/1.1.0)
 - [1.1.1           ](https://github.com/codessh/coolitem/releases/tag/1.1.1)
 - [1.1.2           ](https://github.com/codessh/coolitem/releases/tag/1.1.2)
