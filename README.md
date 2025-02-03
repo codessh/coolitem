@@ -1,8 +1,8 @@
 # Notice
 
 1. 中文README请移步[此处](./README-cn.md) / Need Chinese README? [Follow me!](./README-cn.md)
-2. Please note that I (Codessh) am not the author of this project, I am only responsible for organizing the miscellaneous documents of this project.
-3. Trust me, soon this README will be full of content.
+2. Please note that I (Codessh) am not the author of this project, this project was initiated by a friend of mine.
+3. Star this repository, please!（ΩДΩ）
 
 # Coolitem
 
