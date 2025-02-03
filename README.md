@@ -12,11 +12,11 @@ I like Avaritia, but it requires a lower version. So I wrote a Mod and I think i
 
 ## Releases
 
-- [1.0.0           ](../../releases/tag/1.0.0)
-- [1.1.0           ](../../releases/tag/1.1.0)
-- [1.1.1           ](../../releases/tag/1.1.1)
-- [1.1.2           ](../../releases/tag/1.1.2)
-- [1.1.3/lastest   ](../../releases/tag/1.1.3)
+- [1.0.0](../../releases/tag/1.0.0)
+- [1.1.0](../../releases/tag/1.1.0)
+- [1.1.1](../../releases/tag/1.1.1)
+- [1.1.2](../../releases/tag/1.1.2)
+- [1.1.3/lastest](../../releases/tag/1.1.3)
 - [1.1.4&iron_craft (April Fool's Day 2025)](../../releases/tag/1.1.4%26iron_craft)
 
 
