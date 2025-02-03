@@ -12,12 +12,12 @@
 
 ## 发行版一览
 
-- [1.0.0           ](../../releases/tag/1.0.0)
-- [1.1.0           ](../../releases/tag/1.1.0)
-- [1.1.1           ](../../releases/tag/1.1.1)
-- [1.1.2           ](../../releases/tag/1.1.2)
-- [1.1.3/lastest   ](../../releases/tag/1.1.3)
-- [1.1.4&iron_craft](../../releases/tag/1.1.4%26iron_craft)
+- [1.0.0](../../releases/tag/1.0.0)
+- [1.1.0](../../releases/tag/1.1.0)
+- [1.1.1](../../releases/tag/1.1.1)
+- [1.1.2](../../releases/tag/1.1.2)
+- [1.1.3/最新](../../releases/tag/1.1.3)
+- [1.1.4&iron_craft(2025愚人节)](../../releases/tag/1.1.4%26iron_craft)
 
 
 <!-- markdownlint-disable-file required-headings -->
