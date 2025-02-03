@@ -13,11 +13,11 @@ I like Avaritia, but it requires a lower version. So I wrote a Mod and I think i
 ## Releases
 
 - [1.0.0           ](../../releases/tag/1.0.0)
-- [1.1.0           ](https://github.com/codessh/coolitem/releases/tag/1.1.0)
-- [1.1.1           ](https://github.com/codessh/coolitem/releases/tag/1.1.1)
-- [1.1.2           ](https://github.com/codessh/coolitem/releases/tag/1.1.2)
-- [1.1.3/lastest   ](https://github.com/codessh/coolitem/releases/tag/1.1.3)
-- [1.1.4&iron_craft](https://github.com/codessh/coolitem/releases/tag/1.1.4%26iron_craft)
+- [1.1.0           ](../../releases/tag/1.1.0)
+- [1.1.1           ](../../releases/tag/1.1.1)
+- [1.1.2           ](../../releases/tag/1.1.2)
+- [1.1.3/lastest   ](../../releases/tag/1.1.3)
+- [1.1.4&iron_craft](../../releases/tag/1.1.4%26iron_craft)
 
 
 <!-- markdownlint-disable-file required-headings -->
