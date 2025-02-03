@@ -10,6 +10,14 @@
 
 这是一个六年级小学生制作的Fabric MC模组。我的英文不太好，所以[README](./README.md)里面的内容都是使用机器翻译生成的。而我最爱的《无尽贪婪》模组却要求更低的MC版本。所以我写了一个Mod来满足我的需求。
 
-# 发行版介绍
+## 发行版一览
 
-我得等人家更新啊！！！（话说你是怎么这么快看到这个项目的）
+- [1.0.0           ](../../releases/tag/1.0.0)
+- [1.1.0           ](../../releases/tag/1.1.0)
+- [1.1.1           ](../../releases/tag/1.1.1)
+- [1.1.2           ](../../releases/tag/1.1.2)
+- [1.1.3/lastest   ](../../releases/tag/1.1.3)
+- [1.1.4&iron_craft](../../releases/tag/1.1.4%26iron_craft)
+
+
+<!-- markdownlint-disable-file required-headings -->
