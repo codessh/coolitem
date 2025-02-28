@@ -33,6 +33,9 @@
     },
     {
       "item":"coolitem:super_redstone_block"
+    },
+    {
+      "item":"coolitem:netherite_diamond"
     }
   ],
   "result": {

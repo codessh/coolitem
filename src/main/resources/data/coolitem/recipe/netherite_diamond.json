@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "NNN",
+    "SNS",
     "NDN",
-    "NNN"
+    "SNS"
   ],
   "key": {
     "N": {
@@ -11,6 +11,9 @@
     },
     "D": {
       "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
     }
   },
   "result": {

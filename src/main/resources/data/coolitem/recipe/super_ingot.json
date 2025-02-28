@@ -1,11 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "DDDDDDDDD",
+    "SDSDSDSDS",
     "DCCCCCCCD",
+    "SCCCCCCCS",
     "DCCCCCCCD",
-    "DCCCCCCCD",
-    "DDDDDDDDD"
+    "SDSDSDSDS"
   ],
   "key": {
     "D": {
@@ -13,6 +13,9 @@
     },
     "C": {
       "item": "coolitem:ore_crystal"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
     }
   },
   "result": {
