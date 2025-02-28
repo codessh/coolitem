@@ -16,8 +16,9 @@
 - [1.1.0](../../releases/tag/1.1.0)
 - [1.1.1](../../releases/tag/1.1.1)
 - [1.1.2](../../releases/tag/1.1.2)
-- [1.1.3/最新](../../releases/tag/1.1.3)
+- [1.1.3](../../releases/tag/1.1.3)
 - [1.1.4&iron_craft(2025愚人节)](../../releases/tag/1.1.4%26iron_craft)
+- [1.1.5/最新](../../releases/tag/1.1.5)
 
 
 <!-- markdownlint-disable-file required-headings -->
