@@ -26,7 +26,9 @@ public class DiamondCraftingTableGui extends HandledScreen<DiamondCraftingTableG
 
     @Override
     protected void drawBackground(DrawContext context, float delta, int mouseX, int mouseY) {
-        context.drawTexture(Gui, x, y, 0, 0, 256, 256);
+        int i = (this.width - this.backgroundWidth) / 2;
+        int j = (this.height - this.backgroundHeight) / 2;
+        context.drawTexture(Gui, i, j, 0, 0, this.backgroundWidth, this.backgroundHeight);
     }
 
     @Override
