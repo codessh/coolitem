@@ -16,6 +16,12 @@ public class CoolitemGuiHandlerType {
             return new DiamondCraftingTableGuiHandler(syncId, playerInventory);
         }
     }, FeatureSet.empty()));
+    public static ScreenHandlerType<CopierGuiHandler> COPIER_GUI_HANDLER=register("coolitem:copier_gui", new ScreenHandlerType<>(new ScreenHandlerType.Factory<>(){
+        @Override
+        public CopierGuiHandler create(int syncId, PlayerInventory playerInventory) {
+            return new CopierGuiHandler(syncId, playerInventory);
+        }
+    }, FeatureSet.empty()));
     private static <T extends ScreenHandler> ScreenHandlerType<T> register(String id, ScreenHandlerType<T> factory) {
         return Registry.register(Registries.SCREEN_HANDLER, id, factory);
     }
