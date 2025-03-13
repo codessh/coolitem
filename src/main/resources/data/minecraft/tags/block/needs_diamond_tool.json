@@ -4,6 +4,7 @@
     "coolitem:diamond_crafting_table",
     "coolitem:netherite_diamond_block",
     "coolitem:super_netherite_block",
-    "coolitem:super_block"
+    "coolitem:super_block",
+    "coolitem:copier"
   ]
 }
