@@ -15,6 +15,9 @@ public class CoolitemBlockEntityTypes {
             "diamond_crafting_table",
             BlockEntityType.Builder.create(DiamondCraftingTableBlockEntity::new, CoolitemBlockType.DIAMOND_CRAFTING_TABLE).build()
     );
-
+    public static final BlockEntityType<CopierBlockEntity> COPIER = register(
+            "copier",
+            BlockEntityType.Builder.create(CopierBlockEntity::new, CoolitemBlockType.COPIER).build()
+    );
     public static void initialize() {}
 }
