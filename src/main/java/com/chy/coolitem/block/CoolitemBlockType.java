@@ -1,5 +1,6 @@
 package com.chy.coolitem.block;
 
+import com.chy.coolitem.blockEntity.CopierBlock;
 import com.chy.coolitem.blockEntity.DiamondCraftingTableBlock;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
@@ -14,6 +15,7 @@ import net.minecraft.util.Identifier;
 public class CoolitemBlockType {
     public static final Block NETHERITE_DIAMOND_BLOCK = register("netherite_diamond_block", new Block(AbstractBlock.Settings.create().requiresTool().mapColor(MapColor.BLACK).sounds(BlockSoundGroup.NETHERITE).strength(50.0f, 1200.0f)));
     public static final Block DIAMOND_CRAFTING_TABLE = register("diamond_crafting_table", new DiamondCraftingTableBlock(AbstractBlock.Settings.create().requiresTool().mapColor(MapColor.DIAMOND_BLUE).sounds(BlockSoundGroup.METAL).strength(5.0f, 6.0f)));
+    public static final Block COPIER = register("copier", new CopierBlock(AbstractBlock.Settings.create().requiresTool().mapColor(MapColor.IRON_GRAY).sounds(BlockSoundGroup.METAL).strength(5.0f, 6.0f)));
     public static final Block SUPER_IRON_BLOCK = register("super_iron_block", new Block(AbstractBlock.Settings.create().requiresTool().mapColor(MapColor.IRON_GRAY).sounds(BlockSoundGroup.METAL).strength(5.0f, 6.0f)));
     public static final Block SUPER_AMETHYST_BLOCK = register("super_amethyst_block", new Block(AbstractBlock.Settings.create().requiresTool().mapColor(MapColor.PURPLE).sounds(BlockSoundGroup.AMETHYST_BLOCK).strength(1.5f, 1.5f)));
     public static final Block SUPER_COAL_BLOCK = register("super_coal_block", new Block(AbstractBlock.Settings.create().requiresTool().mapColor(MapColor.BLACK).sounds(BlockSoundGroup.STONE).strength(5.0f, 6.0f)));
